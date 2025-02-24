@@ -70,9 +70,3 @@ Os modelos foram comparados em relação ao erro na predição do preço dos car
 Os melhores modelos identificados foram:  
 ✅ **Gradient Boosting Regressor** – Melhor desempenho geral com menor erro de previsão.  
 ✅ **Random Forest Regressor** – Modelo robusto e eficiente.  
-
-## 🚀 Como Executar  
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
